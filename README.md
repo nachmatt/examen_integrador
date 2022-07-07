@@ -2,3 +2,4 @@
 Ignacio Matonte
 Pablo Medero
 Carlos Vargas
+Tatiana Hernandez
